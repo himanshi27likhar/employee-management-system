@@ -5,7 +5,7 @@ import Signup from "./pages/signin";
 import Dashboard from "./pages/Dashboard";
 import CreateEmployee from "./pages/CreateEmployee";
 import EmployeeList from "./pages/EmployeeList";
-
+import Dashboard from "./pages/Dashboard";
 function App() {
   return (
     <BrowserRouter>
